@@ -191,3 +191,7 @@ export default function SoulCallingPage() {
     </div>
   )
 }
+
+// 例：index.tsx の冒頭にコメントを1行追加
+// これはテスト用コメントです
+
